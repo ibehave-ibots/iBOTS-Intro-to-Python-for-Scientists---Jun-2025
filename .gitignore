@@ -2,3 +2,6 @@
 02. Numpy Arrays in Python (Solutions).ipynb
 03. Analysing Tabular Data with Pandas (Solutions).ipynb
 04. Data Visualization with Matplotlib and Seaborn (Solutions).ipynb
+# pixi environments
+.pixi
+*.egg-info
